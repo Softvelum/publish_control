@@ -1,6 +1,6 @@
 # Publish control 
 
-This repo provides code samples for publish control feature set of Nimble Streamer.
+This repo provides code samples for publish control feature set of [Nimble Streamer](https://softvelum.com/nimble/).
 
 Take a look at feature overview in this article: https://blog.wmspanel.com/2015/10/rtsp-publish-control-framework-overview.html
 
